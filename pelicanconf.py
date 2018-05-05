@@ -20,12 +20,14 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('GitHub', 'http://github.com/'),
+LINKS = (('firmware source', 'https://github.com/sh-canadp/sh.can.adp-firmware'),
+         ('hardware source', 'https://github.com/sh-canadp/sh.can.adp-hardware')
         )
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (
+          # ('You can add links in your config file', '#'),
+         )
 
 DEFAULT_PAGINATION = False
 
