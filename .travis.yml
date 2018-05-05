@@ -7,7 +7,7 @@ install:
 - pip install pelican
 - pip install ghp-import
 - pip install pelican_gist
+- pip install markdown
 
 script:
-- make html
 - make publish github
