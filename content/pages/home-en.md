@@ -5,7 +5,7 @@ status: hidden
 save_as: index.html
 
 # Overview
----
+
 **ShCanAdp** - it is open source small adapter CAN bus to USB. He builds on **STM32F373CBT6**. USB works in mode virtual com port (standart from ST). It use as a protocol **SLCAN** (alsa known as LAWICEL). The software works under **FreeRTOS**.
 
 # Feartures
