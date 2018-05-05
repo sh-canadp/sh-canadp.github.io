@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'ShizaCat'
 SITENAME = 'Sh.Can.Adp'
-SITEURL = ''
+SITEURL = 'sh-canadp.github.io'
 
 PATH = 'content'
 
